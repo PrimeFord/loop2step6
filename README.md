@@ -1,5 +1,4 @@
 # loop2step6
-# loop2step5
 *An implementation of Calender with HTML/CSS*
 
 ## Getting Started
